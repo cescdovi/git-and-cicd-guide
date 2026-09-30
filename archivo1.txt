@@ -4,3 +4,4 @@ Añado una tercera linea
 Añado una cuarta linea desde el remoto
 Añado una quinta linea desde local
 Añadir una linea para comprobar como funciona el stash
+Modifico linea 6
